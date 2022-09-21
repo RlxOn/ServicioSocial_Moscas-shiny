@@ -3,6 +3,8 @@ En este repositorio se encuentra alojado mi proyecto de servicio social que cons
 
 En el archivo Estimatessarcophagidae.xlsx se encuentra separado por hojas, cada una sirve para la elaboración de un gráfico o para tomar información.
 
-Los archivos inegi_refcenmuni_2010 fueron tomados del INEGI. Adjunto los archivos individuales así como el archivo .zip de donde fueron descompromidos.
+Los archivos inegi_refcenmuni_2010 fueron tomados del INEGI. Adjunto el link de su página de consulta, debido a que el archivo .zip es muy pesado.
+
+Adjunto también los PNG usados para los íconos.
 
 Aunque el nombre del código principal diga ui, tanto el ui como el server están contenidos en tal archivo. 
